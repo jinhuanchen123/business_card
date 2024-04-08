@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+.middle {
+    display: flex;
+    flex-direction: column; /* To stack items vertically */
+    justify-content: center; /* To horizontally center items */
+    align-items: center; /* To vertically center items */
+}
+
+.cat_image{
+    display:flex;
+    width:400px;
+    height:400px;
+    margin:auto;
+}
+#about{
+    display:flex;
+    align-self: flex-start; /* Align "About" section to the left */
+}

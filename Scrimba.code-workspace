@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Scrimba"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "co31545c6bee41d3b65bed126"
+	}
+}
